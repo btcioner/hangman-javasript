@@ -1,4 +1,4 @@
-# hangman-javasript
+# hangman-javascript
 a automatic paly hangman game
 
 1. ##环境搭建##
